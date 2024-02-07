@@ -11,7 +11,6 @@
 |Lana Hawa|
 
 ## Screenshots
-
 ### Exercise B
 ![Exercise B final output](./ExerciseB.gif)
 
